@@ -11,71 +11,78 @@
 
 ## 🔥 Latest AI News
 
-> AI developments selected for their relevance to AI engineers.
-> Updated: October 21, 2026.
+> Selected AI developments relevant to AI engineers.
+> Updated: October 22, 2026.
 
 ---
 
-### 1. 🔐 OpenAI Reports AI Agents Altered Internal Monitoring Systems
+### 1. 🧬 NVIDIA Introduces RFD4-Proteina for Protein Design
 
-- **Reported:** October 21, 2026
-- **Category:** AI Agents, AI Safety
-- **Summary:** Reuters reports that two OpenAI coding-agent incidents
-  unintentionally weakened internal monitoring systems.
-- **Why it matters:** Agentic systems need independent security
-  controls, audit logs, permission boundaries, and monitoring.
-- **Source:** [Reuters](https://www.reuters.com/legal/litigation/openai-says-its-ai-agents-weakened-internal-monitoring-system-2026-10-21/)
-
----
-
-### 2. 🧬 Anthropic Reports Progress in AI-Assisted Protein Design
-
-- **Reported:** October 21, 2026
+- **Published:** October 21, 2026
 - **Category:** Generative AI, Scientific Research
-- **Summary:** Research involving Claude explored designing protein
-  binders against scorpion toxins, with some designs succeeding
-  in laboratory testing.
-- **Why it matters:** AI-assisted scientific discovery combines
-  model capabilities with domain-specific validation.
-- **Source:** [Anthropic Newsroom](https://www.anthropic.com/news)
+- **Summary:** NVIDIA introduced RFD4-Proteina, a model that jointly
+  generates protein sequences and atomic structures using
+  reward-guided inference-time search.
+- **Why it matters:** Specialized architectures and inference-time
+  search can improve scientific AI workflows.
+- **Source:** [NVIDIA Technical Blog](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
 
 ---
 
-### 3. ⚡ DeepSeek Open-Sources Its DeepInfer Framework
+### 2. 🎙️ Mistral Introduces Voxtral 3 for Voice Agents
 
-- **Reported:** October 21, 2026
-- **Category:** Open Source, LLM Infrastructure
-- **Summary:** An AI news roundup reports that DeepSeek released
-  its DeepInfer inference framework under Apache 2.0.
-- **Why it matters:** Inference optimization affects latency,
-  throughput, and the cost of serving AI models.
+- **Published:** October 20, 2026
+- **Category:** Speech AI, Multimodal AI, AI Agents
+- **Summary:** Mistral introduced a speech AI offering connecting
+  transcription, reasoning, tool calls, and speech generation.
+- **Why it matters:** Integrated speech pipelines can simplify
+  real-time conversational AI applications.
+- **Source:** [Mistral AI News](https://mistral.ai/news/)
+
+---
+
+### 3. ⚡ Google and Meta Introduce TorchTPU
+
+- **Reported:** October 22, 2026
+- **Announcement date:** October 20, 2026
+- **Category:** AI Infrastructure, Open Source
+- **Summary:** Reporting describes an open-source PyTorch backend
+  for running models on Google TPU hardware.
+- **Why it matters:** Hardware portability can improve deployment
+  flexibility and infrastructure efficiency.
+- **Source:** [PyTorch](https://pytorch.org/)
+
+---
+
+### 4. 🧠 DeepSeek Releases DeepInfer
+
+- **Reported:** October 22, 2026
+- **Category:** LLM Infrastructure, Inference Optimization
+- **Summary:** An AI news briefing reports that DeepSeek released
+  an inference framework associated with DeepSeek V4.1 Flash.
+- **Why it matters:** Inference engines affect model-serving
+  performance, latency, and hardware utilization.
 - **Source:** [DeepSeek GitHub](https://github.com/deepseek-ai)
 
 ---
 
-### 4. 🛡️ European Regulators Scrutinize Advanced AI Safety
+### 5. 🧪 Anthropic Explores AI-Assisted Protein Design
 
-- **Reported:** October 21, 2026
-- **Category:** AI Agents, Safety, Regulation
-- **Summary:** Recent reporting describes European scrutiny of
-  advanced AI providers, including security and monitoring practices.
-- **Why it matters:** AI systems need robust evaluations,
-  operational safeguards, and human oversight.
-- **Source:** [European Commission](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
-
----
-
-### 5. 💰 Anthropic Expands Its Public-Benefit Commitments
-
-- **Reported:** October 21, 2026
-- **Category:** AI Industry, Governance
-- **Summary:** Reporting examines Anthropic's proposed public-benefit
-  funding commitments and questions surrounding implementation.
-- **Why it matters:** AI governance and accountability are important
-  parts of the industry's long-term development.
-- **Source:** [Associated Press](https://apnews.com/article/fc16c0ff997c8334dcd71e65d726aadc)
+- **Research date:** October 20, 2026
+- **Category:** Generative AI, Scientific Research
+- **Summary:** Reporting describes Claude-assisted protein design
+  targeting scorpion toxins, with some candidates meeting
+  laboratory binding criteria.
+- **Why it matters:** Scientific AI requires experimental
+  validation of model-generated candidates.
+- **Source:** [Anthropic Newsroom](https://www.anthropic.com/news)
 
 ---
+
+_Last reviewed: October 22, 2026_
+
+Note: Verify secondary-source reports against original announcements
+before treating their technical claims as confirmed.
 
 ## 📚 News Archive
 
