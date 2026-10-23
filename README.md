@@ -8,78 +8,82 @@
 </p>
 
 ---
-
 ## 🔥 Latest AI News
 
-> Selected AI developments relevant to AI engineers.
-> Updated: October 22, 2026.
+> AI developments selected for AI engineers and developers.
+> Updated: October 23, 2026.
 
 ---
 
-### 1. 🧬 NVIDIA Introduces RFD4-Proteina for Protein Design
+### 1. 🩺 Microsoft Develops an AI Diagnostic System
 
-- **Published:** October 21, 2026
-- **Category:** Generative AI, Scientific Research
-- **Summary:** NVIDIA introduced RFD4-Proteina, a model that jointly
-  generates protein sequences and atomic structures using
-  reward-guided inference-time search.
-- **Why it matters:** Specialized architectures and inference-time
-  search can improve scientific AI workflows.
-- **Source:** [NVIDIA Technical Blog](https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/)
-
----
-
-### 2. 🎙️ Mistral Introduces Voxtral 3 for Voice Agents
-
-- **Published:** October 20, 2026
-- **Category:** Speech AI, Multimodal AI, AI Agents
-- **Summary:** Mistral introduced a speech AI offering connecting
-  transcription, reasoning, tool calls, and speech generation.
-- **Why it matters:** Integrated speech pipelines can simplify
-  real-time conversational AI applications.
-- **Source:** [Mistral AI News](https://mistral.ai/news/)
+- **Reported:** October 23, 2026
+- **Research published:** October 22, 2026
+- **Category:** AI Research, Agentic AI
+- **Summary:** Microsoft researchers developed an AI system that
+  gathers information step by step, choosing questions and tests
+  before reaching a diagnosis.
+- **Why it matters:** Sequential reasoning and tool orchestration
+  can improve complex AI workflows.
+- **Source:** [Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/)
 
 ---
 
-### 3. ⚡ Google and Meta Introduce TorchTPU
+### 2. 🧬 Hugging Face Introduces Carbon-X
 
-- **Reported:** October 22, 2026
-- **Announcement date:** October 20, 2026
-- **Category:** AI Infrastructure, Open Source
-- **Summary:** Reporting describes an open-source PyTorch backend
-  for running models on Google TPU hardware.
-- **Why it matters:** Hardware portability can improve deployment
-  flexibility and infrastructure efficiency.
-- **Source:** [PyTorch](https://pytorch.org/)
-
----
-
-### 4. 🧠 DeepSeek Releases DeepInfer
-
-- **Reported:** October 22, 2026
-- **Category:** LLM Infrastructure, Inference Optimization
-- **Summary:** An AI news briefing reports that DeepSeek released
-  an inference framework associated with DeepSeek V4.1 Flash.
-- **Why it matters:** Inference engines affect model-serving
-  performance, latency, and hardware utilization.
-- **Source:** [DeepSeek GitHub](https://github.com/deepseek-ai)
+- **Reported:** October 23, 2026
+- **Announced:** October 22, 2026
+- **Category:** Open-Source AI, Scientific Research
+- **Summary:** Hugging Face introduced Carbon-X, an AI model
+  designed to analyze and generate DNA sequences using
+  natural-language instructions.
+- **Why it matters:** Domain-specific models can extend LLMs
+  into specialized scientific applications.
+- **Source:** [Business Insider](https://www.businessinsider.com/hugging-face-ai-model-carbon-x-dna-sequences-gene-therapies-2026-10)
 
 ---
 
-### 5. 🧪 Anthropic Explores AI-Assisted Protein Design
+### 3. 🎨 Canva Launches Craft Image Generation Model
 
-- **Research date:** October 20, 2026
-- **Category:** Generative AI, Scientific Research
-- **Summary:** Reporting describes Claude-assisted protein design
-  targeting scorpion toxins, with some candidates meeting
-  laboratory binding criteria.
-- **Why it matters:** Scientific AI requires experimental
-  validation of model-generated candidates.
-- **Source:** [Anthropic Newsroom](https://www.anthropic.com/news)
+- **Reported in India:** October 23, 2026
+- **Announced in the US:** October 22, 2026
+- **Category:** Generative AI, Multimodal AI
+- **Summary:** Canva introduced Craft, an image-generation model
+  that plans a design before generating the image.
+- **Why it matters:** Separating planning from generation can
+  improve layout control and consistency.
+- **Source:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
 
 ---
 
-_Last reviewed: October 22, 2026_
+### 4. ⚡ OpenAI Makes the Decisions API Generally Available
+
+- **Published:** October 22, 2026
+- **Category:** AI Engineering, APIs, AI Agents
+- **Summary:** OpenAI released general availability of the
+  Decisions API for focused, structured decisions in applications
+  and agent workflows.
+- **Why it matters:** Specialized decision endpoints can reduce
+  latency and cost for routing and classification tasks.
+- **Source:** [OpenAI](https://openai.com/index/decisions-api/)
+
+---
+
+### 5. 🤖 Anthropic Opens Claude Duet Research Preview
+
+- **Announced:** October 21, 2026
+- **Category:** AI Agents, Productivity
+- **Summary:** Anthropic opened a research preview of Claude Duet,
+  a proactive agent designed to work beyond individual prompts.
+- **Why it matters:** Autonomous agents require persistent context,
+  appropriate permissions, and human approval for sensitive actions.
+- **Source:** [Claude Release Notes](https://support.claude.com/en/articles/12138966-release-notes)
+
+---
+
+_Last reviewed: October 23, 2026_
+
+Note: Reported dates and original announcement dates may differ.
 
 Note: Verify secondary-source reports against original announcements
 before treating their technical claims as confirmed.
