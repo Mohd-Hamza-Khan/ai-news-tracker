@@ -67,7 +67,7 @@ Fortnite and use AI tools and agents during development.
 **Why it matters:** Highlights growing opportunities for AI-assisted
 coding, game development, and agent-based creative workflows.
 
-_Last reviewed: October 23, 2026_
+_Last reviewed: October 24, 2026_
 
 Note: Reported dates and original announcement dates may differ.
 
