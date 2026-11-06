@@ -8,7 +8,63 @@ This file stores news stories that are no longer featured in the main README.
 
 ## October 2026
 
-## 📰 Latest AI News — 4 November 2026
+## 📰 Latest AI News — 5 November 2026
+
+### 1. OpenAI Says Enterprise Customers Now Generate Most of Its Revenue
+**Published:** 5 November 2026  
+**Source:** [Reuters](https://www.reuters.com/legal/transactional/openai-ready-ipo-2027-now-counts-majority-sales-enterprises-brockman-says-2026-11-05/)
+
+OpenAI President Greg Brockman said enterprise customers now account for
+the majority of OpenAI's revenue. He also indicated that the company
+expects to be ready for a potential IPO in 2027.
+
+**Why it matters:** Highlights the growing enterprise AI market and
+increasing demand for AI agents, workflow automation, and production AI.
+
+### 2. Meta Acquires AI Coding Startup Conductor
+**Published:** 4 November 2026  
+**Source:** [TechCrunch](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)
+
+Meta acquired Conductor, an AI coding startup that enables developers
+to coordinate multiple coding agents working on separate parts of
+software projects in parallel.
+
+**Why it matters:** Shows the growing importance of multi-agent
+orchestration and AI-assisted software engineering.
+
+### 3. IndiaAI Mission Releases EKA-1, Dhīr 2B and Dhīr 5B
+**Published:** 4 November 2026  
+**Source:** [The Economic Times](https://m.economictimes.com/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/articleshow/135524432.cms)
+
+India's IndiaAI Mission introduced three indigenous foundation models.
+EKA-1 is a 26.3-billion-parameter model supporting 22 scheduled Indian
+languages and English, while Dhīr 2B and Dhīr 5B target compact,
+multilingual, offline-capable AI applications.
+
+**Why it matters:** Highlights opportunities in local LLM deployment,
+multilingual AI, edge inference, and privacy-preserving applications.
+
+### 4. Tencent Releases Hy4 Open-Source AI Model with Cybersecurity Safeguards
+**Published:** 4 November 2026  
+**Source:** [The Economic Times](https://economictimes.indiatimes.com/ai/ai-insights/articlelist/121648923.cms)
+
+Tencent released Hy4, an open-source model trained with limited
+cybersecurity-related data focused on defensive content to reduce
+potential misuse for cyberattacks.
+
+**Why it matters:** Demonstrates the importance of dataset filtering,
+model safety, red-teaming, and cybersecurity evaluations.
+
+### 5. India's Cybercrime Agency Warns Financial Firms About AI-Powered Attacks
+**Published:** 4 November 2026  
+**Source:** [The Economic Times](https://economictimes.indiatimes.com/tech_topic.cms?from=mdr&perpage=8&query=Artificial+Intelligence)
+
+India's Indian Cybercrime Coordination Centre warned financial
+institutions about financially motivated attacks using AI agents
+to automate cybercrime at machine speed.
+
+**Why it matters:** Reinforces the need for secure tool permissions,
+human approval, monitoring, and sandboxing in AI-agent applications.
 
 ### 1. Mistral Releases Open Weights for Its 1-Trillion-Parameter Large 4 Model
 **Published:** 4 November 2026  
