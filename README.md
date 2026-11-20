@@ -9,7 +9,52 @@
 
 ---
 
-paste here
+📰 Latest AI News — 20 November 2026
+
+1. Anthropic Makes a Historic Nasdaq Debut, but AI Investors Remain Cautious
+
+Published: 20 November 2026
+Source: "Reuters" (https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/)
+
+Anthropic made its Nasdaq debut following a record-breaking IPO. However, its shares experienced volatility on the following trading day as investors questioned whether massive AI infrastructure spending will translate into sustainable profits.
+
+Why it matters: Highlights the growing importance of AI business economics, compute costs, revenue growth, and commercial sustainability.
+
+2. Google Brings Computer Use to Gemini on Mac
+
+Published: 19 November 2026
+Source: "Google Gemini Release Notes" (https://gemini.google/release-notes/?a289adb9_page=2)
+
+Google introduced computer-use capabilities in its Gemini Mac app. Gemini can perform multi-step actions across desktop applications and websites, including clicking, typing, and filling forms, with user controls for permissions and sensitive actions.
+
+Why it matters: Demonstrates practical computer-use agents, tool permissions, human approval, and multi-step task execution.
+
+3. Google Makes Genie 4 Available to Developers Through Gemini API
+
+Published: 19 November 2026
+Source: "Google DeepMind / Google Blog" (https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/)
+
+Google made Genie 4 available through the Gemini API and Google AI Studio. Developers can generate interactive 720p environments at 24 frames per second with synchronized audio and real-time controls.
+
+Why it matters: Creates opportunities for interactive simulations, robotics training, game development, and AI-agent environments.
+
+4. OpenAI Studies How Coding Agents Are Accelerating AI Research
+
+Published: 18 November 2026
+Source: "OpenAI Research" (https://openai.com/research/index/)
+
+OpenAI published "Research acceleration: The jagged frontier", examining how coding agents accelerate AI research. The report discusses improvements in research-task completion while highlighting uneven performance across complex workflows.
+
+Why it matters: Shows how coding agents are expanding into research workflows and why agent evaluation, task decomposition, and human oversight matter.
+
+5. Pharmaceutical Companies Say AI Is Accelerating Drug Discovery
+
+Published: 20 November 2026
+Source: "Reuters" (https://www.reuters.com/legal/litigation/big-pharma-with-eye-anthropic-says-ai-is-shrinking-drug-discovery-timelines-2026-11-20/)
+
+Major pharmaceutical companies are using AI to identify drug targets, design molecules, and assess safety. Some companies report significant reductions in early-stage discovery timelines, although clinical trials and regulatory approval remain major challenges.
+
+Why it matters: Demonstrates the growing application of AI models and scientific datasets to complex real-world research problems.
 
 _Last reviewed: November 19, 2026_
 
