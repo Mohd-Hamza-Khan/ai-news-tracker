@@ -56,7 +56,7 @@ Major pharmaceutical companies are using AI to identify drug targets, design mol
 
 Why it matters: Demonstrates the growing application of AI models and scientific datasets to complex real-world research problems.
 
-_Last reviewed: November 19, 2026_
+_Last reviewed: November 20, 2026_
 
 Note: Reported dates and original announcement dates may differ.
 
